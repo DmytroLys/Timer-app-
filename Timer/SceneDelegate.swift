@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Timer
 //
-//  Created by Dmytro on 01.03.2023.
+//  Created by Dmytro Lyshtva on 01.03.2023.
 //
 
 import UIKit
